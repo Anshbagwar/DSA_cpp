@@ -27,31 +27,5 @@ int main() {
     return 0;
 }
 
-//
-//
-//#include <iostream>
-//#include <iomanip>
-//
-//int main() {
-//    double distance;
-//    double time;
-//
-//    std::cout << "Enter the distance (in miles): ";
-//    std::cin >> distance;
-//
-//    std::cout << "Enter the time (in hours): ";
-//    std::cin >> time;
-//
-//    // Calculate speed (speed = distance / time)
-//    double speed = distance / time;
-//
-//    int decimalPlaces;
-//    std::cout << "Enter the number of decimal places for speed: ";
-//    std::cin >> decimalPlaces;
-//
-//    // Set the precision for displaying speed
-//    std::cout << "The speed is: " << std::fixed << std::setprecision(decimalPlaces) << speed << " miles per hour" << std::endl;
-//
-//    return 0;
-//}
+
 
